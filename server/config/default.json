@@ -1,0 +1,5 @@
+{
+    "serverPort":5001,
+    "dbUrl": "mongodb+srv://OlimtoyDev:LGw4zlqdW4VABctc@cruduser.8lileyj.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey":"crud-users"
+}
